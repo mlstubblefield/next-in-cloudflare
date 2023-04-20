@@ -9,6 +9,7 @@ export async function getStaticProps(context) {
         number: context.params.number,
         date: new Date().toISOString(),
        }, // will be passed to the page component as props
+       revalidate: 60,//1 minute
     }
   }
 
