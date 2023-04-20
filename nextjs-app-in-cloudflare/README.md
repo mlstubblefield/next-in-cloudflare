@@ -7,5 +7,5 @@ Things to test...
 - Y API
 - N images
 - edge config (probably won't work, but should be able to just use cloudflare key value)
-- middleware
+- Y middleware
 - next config things (redirects, rewrites, etc...)
