@@ -5,7 +5,7 @@ Things to test...
 - Y SSR pages
 - N invalidation
 - Y API
-- images
+- N images
 - edge config (probably won't work, but should be able to just use cloudflare key value)
 - middleware
 - next config things (redirects, rewrites, etc...)
