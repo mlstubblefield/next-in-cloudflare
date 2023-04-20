@@ -8,4 +8,5 @@ Things to test...
 - N images
 - edge config (probably won't work, but should be able to just use cloudflare key value)
 - Y middleware
+    - sort of works, it can set cookies and headers, but it broke the page for some reason
 - next config things (redirects, rewrites, etc...)
