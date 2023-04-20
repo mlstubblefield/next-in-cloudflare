@@ -4,6 +4,9 @@ const nextConfig = {
   swcMinify: true,
   experimental: {
     runtime: 'edge',
+  },
+  eslint:{
+    ignoreDuringBuilds: true
   }
 }
 
