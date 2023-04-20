@@ -28,6 +28,7 @@ export default function Home() {
             </li>
           </ul>
         </div>
+        <Image src="https://content.speedwaymotors.com/ProductImages/917347_L1600_6e2641a1-e4dc-4d8c-a7a6-a01c539d0485.jpg" width={550} height={550} />
       </main>
     </div>
   );
