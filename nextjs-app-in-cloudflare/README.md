@@ -1,10 +1,10 @@
 Things to test...
-- X static pages
-- ISR pages (caching primarily)
-- ISR deployment revalidation
-- SSR pages
-- invalidation
-- API
+- Y static pages
+- N ISR pages (caching primarily)
+- N ISR deployment revalidation
+- Y SSR pages
+- N invalidation
+- Y API
 - images
 - edge config (probably won't work, but should be able to just use cloudflare key value)
 - middleware
